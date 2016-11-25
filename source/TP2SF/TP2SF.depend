@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1389350269 source:e:\dynamic\tp2sf\tp\tp2sf\imab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonct.h"
+
+1389357936 e:\dynamic\tp2sf\tp\tp2sf\fonct.h
+
+1389359179 source:e:\dynamic\tp2sf\tp\tp2sf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonct.h"
+
+1389359042 source:e:\dynamic\tp2sf\tp\tp2sf\fonct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonct.h"
+
+1389874910 source:c:\users\mohammed_bey\desktop\tp\tp2sf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonct.h"
+
+1389878653 c:\users\mohammed_bey\desktop\tp\tp2sf\fonct.h
+
+1389878636 source:c:\users\mohammed_bey\desktop\tp\tp2sf\fonct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonct.h"
+
+1336672496 source:c:\users\mohammed_bey\desktop\tp\tp2sf\conio .c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1389878736 source:c:\users\mohammed_bey\desktop\tp\tp2sf\affichage.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"fonct.h"
+
+1336672496 source:g:\2cpi\tps-et-projets\algo\tp2\g04-behahmedkhernache-abismail\tp2sf\conio .c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1391066948 source:g:\2cpi\tps-et-projets\algo\tp2\g04-behahmedkhernache-abismail\tp2sf\fonct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonct.h"
+
+1391067243 g:\2cpi\tps-et-projets\algo\tp2\g04-behahmedkhernache-abismail\tp2sf\fonct.h
+
+1391003516 source:g:\2cpi\tps-et-projets\algo\tp2\g04-behahmedkhernache-abismail\tp2sf\affichage.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"fonct.h"
+
+1391037850 source:g:\2cpi\tps-et-projets\algo\tp2\g04-behahmedkhernache-abismail\tp2sf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonct.h"
+
+1336672496 source:g:\2cpi\tps-et-projets\algo\tp2\g04-beyahmedkhernache-abismail\tp2sf\conio .c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1391158372 source:g:\2cpi\tps-et-projets\algo\tp2\g04-beyahmedkhernache-abismail\tp2sf\fonct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonct.h"
+
+1391206013 g:\2cpi\tps-et-projets\algo\tp2\g04-beyahmedkhernache-abismail\tp2sf\fonct.h
+
+1391068549 source:g:\2cpi\tps-et-projets\algo\tp2\g04-beyahmedkhernache-abismail\tp2sf\affichage.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"fonct.h"
+
+1391068622 source:g:\2cpi\tps-et-projets\algo\tp2\g04-beyahmedkhernache-abismail\tp2sf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonct.h"
+
